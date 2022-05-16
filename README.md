@@ -9,8 +9,7 @@
 
 <div style="display: inline_block><br>
             <a href="https://github.com/Hugoqueiros">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">                               <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">                         <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Rafa-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />      
