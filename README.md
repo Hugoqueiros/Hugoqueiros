@@ -8,7 +8,6 @@
 </div>
 
 ### Hard-Skills
-
 <div style="display: inline_block><br>
             <a href="https://github.com/Hugoqueiros">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">                         <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
@@ -30,7 +29,6 @@
 </div>
 
 ### Contact Me
-
 <div>
   <a href="https://www.linkedin.com/in/hugoqueir%C3%B3s/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
   <a href = "mailto:hugo-_queiros@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
