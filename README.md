@@ -37,3 +37,5 @@
           
 
 </div>
+
+![snake gif](https://github.com/Hugoqueiros/Hugoqueiros/blob/output/github-contribution-grid-snake.gif)
