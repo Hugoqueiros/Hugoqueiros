@@ -1,4 +1,4 @@
-### Developer
+### GitHub Stats
 
 <div>
   <a href="https://github.com/Hugoqueiros">
@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoqueiros&layout=compact&langs_count=16&theme=blue-green"/>
   </a>
 </div>
+
+### Hard-Skills
 
 <div style="display: inline_block><br>
             <a href="https://github.com/Hugoqueiros">
@@ -26,6 +28,8 @@
   </a>
                                                                                                                                                                        
 </div>
+
+### Contact Me
 
 <div>
   <a href="https://www.linkedin.com/in/hugoqueir%C3%B3s/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
